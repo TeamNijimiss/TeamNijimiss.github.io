@@ -1,0 +1,38 @@
+baseURL = "https://nijimiss.app/"
+languageCode = "ja"
+title = "Nijimiss Project"
+theme = "m10c"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
+[menu]
+  [[menu.main]]
+    identifier = "terms-of-service"
+    name = "利用規約"
+    url = "/pages/terms-of-service"
+    weight = -300
+  [[menu.main]]
+    identifier = "guideline"
+    name = "にじみす投稿ガイドライン"
+    url = "/pages/guideline"
+    weight = -200
+  [[menu.main]]
+    identifier = "privacy-policy"
+    name = "プライバシーポリシー"
+    url = "/pages/privacy-policy"
+    weight = -100
+  [[menu.main]]
+    identifier = "instance-block"
+    name = "インスタンスブロック"
+    url = "/pages/instance-block"
+    weight = 0
+
+
+[params]
+  author = "Nijimiss Project"
+  description = "Nijimiss Projectは2次元を愛するユーザーのためのMisskeyインスタンス運営チームです。"
+  menu_item_separator = " <br/> "
