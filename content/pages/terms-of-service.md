@@ -5,7 +5,7 @@ type: page
 draft: false
 ---
 
-ユーザー契約は本利用規約，[プライバシーポリシー](https://nijimiss.app/pages/privacy-policy/)，[にじみす投稿ガイドライン](https://nijimiss.app/pages/guideline/)から構成されます。
+Nijimiss Projectが提供するサービスをご利用いただくにあたり，本利用規約のほか，[にじみす投稿ガイドライン](https://nijimiss.app/pages/guideline/)にも同意していただく必要があります。
 
 ---
 
