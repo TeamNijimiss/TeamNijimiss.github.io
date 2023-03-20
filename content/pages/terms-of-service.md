@@ -138,7 +138,7 @@ Nijimiss Projectが提供するサービスをご利用いただくにあたり�
 
 以前の規約
 
-- [第４版 2023年3月4日]({{< ref "/pages/tos-archives/version-20211201.md" >}})
+- [第４版 2023年3月4日]({{< ref "/pages/tos-archives/version-20230304.md" >}})
 - [第３版 2021年12月1日]({{< ref "/pages/tos-archives/version-20211201.md" >}})
 - [第２版 2020年12月14日]({{< ref "/pages/tos-archives/version-20201214.md" >}})
 - [第１版 2020年11月1日]({{< ref "/pages/tos-archives/version-20201101.md" >}})
